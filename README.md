@@ -1,1 +1,2 @@
-# CICD-Final-Project
+# Final-Project
+Técnicas modernas e Integración CI/CD
